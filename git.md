@@ -18,6 +18,7 @@ By checking the status we see how we changed our repo (what will be added/remove
 
 ## Pulling from a repository
 It is used to sync our local host with GitHub (downloads changes from the web)
+
 `git pull`
 
 ## Pushing to a repository
