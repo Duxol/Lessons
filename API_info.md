@@ -1,11 +1,3 @@
-# API Keys  
-BarChart API Key:  
-8547ccf034a6743d7c8c847977840b90  
-
-Alpha Vantage API Key:  
-5X4QL9J3BULDXOQR
-
-
 # How to use Alpha Vantage in Python:  
 
 ```
